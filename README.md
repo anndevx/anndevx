@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anndevx
-- 👀 I’m interested in software and web development, data science and cats!
-- 🌱 I’m currently learning JS, Java, SQL and Python
+- 👀 I’m interested in software development, data science and cats!
+- 🌱 I’m currently learning Python
 - 📫 You can reach me on LinkedIn: https://bit.ly/3vjbNNK
 
 
