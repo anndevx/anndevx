@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anna! ✨</h1>
-<h3 align="center">A passionate junior backend software developer</h3>
+<h3 align="center">Junior Software Developer 👩‍💻</h3>
 
 - 🔭 I’m currently working on **HyperJob Agency with Django on Jetbrains Academy**
 
