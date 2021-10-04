@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Anna! ✨</h1>
+<h1 align="center">Hi , I'm Anna 👋</h1>
 <h3 align="center">Junior Software Developer 👩‍💻</h3>
 
-- 🔭 I’m currently working on **HyperJob Agency with Django on Jetbrains Academy**
+- 🔭 I’m currently working on **HyperJob Agency with Django**
 
 - 🌱 I’m currently learning **Python & Django**
 
 - ✍ My previous projects contain **Python, JavaScript, HTML, CSS, Java**
 
-- 📫 You can reach me on **linkedin.com/in/anna-maksymowicz/**
+- 📫 How to reach me **linkedin.com/in/anna-maksymowicz/**
 
 - ⚡ Fun fact **I love cats, dogs and coffee!**
 
@@ -22,7 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anndevx&show_icons=true&locale=en&layout=compact" alt="anndevx" /></p>
 
-<br></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anndevx&show_icons=true&locale=en" alt="anndevx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anndevx&theme=dark" alt="anndevx" /></p>
-
