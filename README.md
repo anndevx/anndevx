@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Anna 👋</h1>
 <h3 align="center">Junior Software Developer 👩‍💻</h3>
 
-- 🔭 I’m currently working on **HyperJob Agency with Django**
-
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **Python 3**
 
 - ✍ My previous projects contain **Python, JavaScript, HTML, CSS, Java**
 
